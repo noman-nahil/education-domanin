@@ -1,0 +1,24 @@
+.navbar-dark {
+  background-color: #0022D2;
+  padding: 10px;
+}
+.jumbotron {
+  margin: 0px auto;
+  padding: 20px 30px;
+  background: #FBFBFF;
+  color: black;
+}
+.row{
+    
+}
+.content{
+    min-height: 600px;
+    padding: 10px;
+    border: 1px ridge;
+}
+h2{
+  border-bottom: 2px ridge;  
+}
+.notice-content{
+    border-left: 1px ridge;
+}
